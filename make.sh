@@ -1,0 +1,1 @@
+gcc -std=gnu99 -Os -march=native -s -fwhole-program -o strobe sb.c -lGL -lX11
